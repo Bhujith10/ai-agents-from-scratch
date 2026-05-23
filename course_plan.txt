@@ -1,0 +1,74 @@
+Before starting, just a thing
+
+The Agent Technical Course: Build and Deploy Production-Grade Gen AI Products
+🧠 Masterclass in Agentic RAG & Multi-Agent Deployment
+A 7-week technical deep dive for AI builders ready to design agent systems that reason, route, and adapt.
+
+7 instructor-led sessions · 7 office hours · 1 Demo Day
+
+What You'll Build
+1. Agentic RAG with Routers Master stateful RAG with intelligent routing, reflection, memory, and multi-hop search strategies beyond naive cosine similarity.
+
+2. Hosting & Quantizing LLMs: Deploy production-grade models using GPTQ/GGUF quantization via Ollama (local) and RunPod (cloud) with FastAPI and auto-scaling.
+
+3. Semantic Caching: Build cache layers from scratch using vector proximity and feedback loops to reduce latency and costs.
+
+4. Knowledge Graphs Implement graph-based memory with text-to-Cypher generation using Neo4j/Memgraph and DSPy for structured reasoning.
+
+5. ReAct Agents Create Reason+Act pipelines in Python and n8n for human-in-the-loop workflows with visual orchestration.
+
+6. Production Deployment Ship multi-agent systems using Google's ADK, MCP, A2A collaboration, Llama Guard safety rails, and GCP monitoring.
+
+Prerequisites: RAG/LLM experience, Python, APIs, cloud basics
+
+👉 This course is for builders who ship real AI.
+
+What you’ll learn
+Master Advanced Techniques for Building and Optimizing Agentic RAG Systems and Multi-Agent Workflows — Designed for Builders
+
+
+Build Production-Grade Agentic RAG Systems
+
+Design and deploy intelligent retrieval systems that reason, route queries, and adapt across multi-turn conversations—far beyond naive RAG
+
+Framework: Implement stateful RAG architectures with routers, reflection loops, and multi-hop reasoning strategies
+
+Hands-on: Build custom routing logic that knows when cosine similarity fails and switches between retrieval strategies
+
+
+Deploy & Optimize LLMs at Scale
+
+Host, quantize, and serve production LLMs locally and in the cloud with cost-efficiency and low latency
+
+Technical deep-dive: Master quantization techniques (GPTQ, GGUF, QLoRA) to reduce model size by 4-8x without sacrificing performance
+
+Infrastructure: Deploy models using Ollama (local), RunPod (cloud), and FastAPI with auto-scaling capabilities
+
+
+Implement Semantic Caching to Reduce Costs by 40%+
+
+Outcome: Build intelligent caching layers that recognize similar queries, avoid redundant LLM calls, and improve over time.
+
+From scratch: Code semantic distance functions using vector embeddings and proximity thresholds
+
+Architecture: Discussion on cache hit/miss systems with reranking and feedback loops that learn from usage patterns
+
+
+Create Knowledge Graph Memory Systems
+
+Outcome: Move beyond flat retrieval to structured reasoning by building graph-based memory with natural language to Cypher query generation
+
+Modeling: Design graph schemas for agent memory, extracting entities and relationships from unstructured text
+
+Tools: Implement with Neo4j or Memgraph and connect to RAG pipelines for context-aware graph traversal
+
+
+Ship Multi-Agent Collaboration Systems
+
+Outcome: Deploy coordinated multi-agent workflows with agent-to-agent communication, human-in-the-loop patterns, and production guardrails.
+
+ReAct paradigm: Build modular Reason+Act pipelines with tool use, planning, and reflection in both Python and n8n
+
+ADK & MCP: Combine Google's Agent Development Kit with Modular Cognitive Planning for enterprise-grade orchestration
+
+Attached above is the course plan of a renowned course
